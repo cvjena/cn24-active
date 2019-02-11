@@ -1,0 +1,1 @@
+/home/brust/repos/cow-processing/cn24-tool/predictCowImages.cpp

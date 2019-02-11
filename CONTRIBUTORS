@@ -1,0 +1,24 @@
+Contributors from the Computer Vision Group of the Friedrich Schiller University Jena:
+ Dipl.-Inf. Sven Sickert
+ Marcel Simon M.Sc.
+ Dr. rer. nat. Erik Rodner
+ 
+Contributors from GitHub:
+ lolz0r (RGB regression)
+
+FindSQLite3.CMake (New BSD License):
+ Andreas Schneider
+
+GetGitRevisionDescription.cmake (Boost License 1.0):
+ Ryan A. Pavlik
+
+json.hpp (MIT License):
+ Niels Lohmann
+
+nuklear (Public Domain):
+ Developed by Micha Mettke and every direct or indirect contributor to the GitHub.
+ Embeds stb_texedit, stb_truetype and stb_rectpack by Sean Barret (public domain)
+ Embeds ProggyClean.ttf font by Tristan Grimmer (MIT license).
+
+YOLO Framework (YOLO License):
+ Joseph Redmon
